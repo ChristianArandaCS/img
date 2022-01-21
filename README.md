@@ -12,3 +12,4 @@ Edit:
 There are fields where you can change the size in the code.
 The variable "fixed_height" is the main variable that is going to effect the images that you resize.
 
+![alt text](https://github.com/ChristianArandaCS/img_resizer/blob/main/Capture-6.PNG?raw=true)
