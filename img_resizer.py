@@ -3,6 +3,7 @@
 ##########################################################################
 ##########################################################################
 
+
 #import libraries
 import os
 import PIL
@@ -20,6 +21,7 @@ img_list = os.listdir(img_loc)
 
 img_list.remove('Thumbs.db')
 
+# loops through all code
 # copies all files from the img source to the script path
 for fname in img_list:
     shutil.copy2(os.path.join(img_loc,fname),script_path)
